@@ -1,0 +1,154 @@
+# jemdoc: menu{MENU}{ma303.html}, showsource
+
+#= MA 303 Linear Analysis
+= MA 303 (001) Fall 2023 Linear Analysis
+
+Instructor: Chao Chen
+
+Email: chao_chen@ncsu.edu (Please include course number in the subject.)
+
+Times: TuTh 3:00PM - 4:15PM
+
+Location: 3216 Broughton Hall
+
+Office hours: SAS 4236, ThTh 1:00PM - 2:00PM and by appointment 
+
+Textbook: N. J. Rose, /Introduction to Linear Analysis/, Department of Mathematics, NC State University, 1999
+
+
+== Course Description
+
+This course is about the analysis of discrete and continuous dynamical systems, or systems that change with time. Specific topics include 
+- linear difference equations of first and second order, compound interest and amortization
+- linear differential equations of first and second order
+- matrices and systems of linear equations, eigenvalues, diagonalization, systems of difference and differential equations.
+
+
+== Homework
+
+- Homework assignments will be given weekly, and they will be collected on specified due dates after lectures (in the classroom). #A single PDF file for each homework need to be uploaded to Moodle. Computer typeset papers are preferred (PDF or MS Word); handwritten papers scanned to a PDF will be accepted as long as the handwriting is legible. (Note that, scanning and photographing are not quite the same, see item 10. It is important that you upload your homework paper as one file. Separate photographs of individual pages will not be accepted.)
+
+
+== Exams
+
+Three midterm exams (during class time): September 12 (Tuesday), October 12 (Thursday), and November 14 (Tuesday)
+
+#Three midterm exams: September 12 (Tuesday), October 12 (Thursday), and November 14 (Tuesday)
+
+Final exam: December 12 (Tuesday) 3:30PM - 6:00PM
+
+#Final exam: December 12 (Tuesday)
+
+
+#(All exams will be given in Moodle.) #They will be in multiple choice format.
+
+
+
+== Grading
+
+Numerical grade = homework (10\%) \+ 3 x midterms (20\%) \+ final (30\%)
+
+Letter grade
+- 97 and above is A+, starting from 93 and below 97 is A, starting from 90 and below 93 is A-. 
+- Similar for the B, C, and D ranges. 
+- Anything below 60 is F.
+
+
+== Moodle
+
+The Moodle page of this course is [https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=3432 here].
+
+
+== Panopto
+
+Lectures will be videotaped and made available via Panopto. 
+
+(Classroom attendance is recommended on the substance.)
+
+
+== Schedule
+
+ Week 1
+- Aug. 22: Difference Equations
+- AUg. 24: Difference Equations, Compound Interest
+
+ Week 2
+- Aug. 29: Compound Interest 
+- Aug. 31: Mortgage Amortizations, 1st Order Difference Equation
+
+ Week 3
+- Sep. 5: 1st Order Difference Equations
+- Sep. 7: Complex Numbers
+
+ Week 4
+- Sep. 12: Complex Numbers, Fibonacci Numbers
+- Sep. 14: Midterm Test 1
+
+ Week 5
+- Sep. 19: Wellness Day (no class)
+- sep. 21: Properties of Solutions of 2nd Order Linear Difference Equations
+
+ Week 6
+- Sep. 26: Homogeneous 2nd Order Linear Difference Equation
+- Sep. 28: Non-homogeneous 2nd Order Linear Difference Equation
+
+ Week 7
+- Oct. 3: Economic Model, Gambler's Ruin
+- Oct. 5: Differential Equations
+
+
+ Week 8
+- Oct. 10: Fall break (no class)
+- Oct. 12: Separation of Variables
+
+
+ Week 9
+- Oct. 16: 1st Order and 2nd Order Linear Differential Equations
+- Oct. 19: Midterm Test 2
+
+
+ Week 10
+- Oct. 24: Vectors and Matrices
+- Oct. 26: Matrix Notation for Linear Systems, Properties of Solutions
+
+
+ Week 11
+- Oct. 31: Elementary Operations
+- Nov. 2: Solution of Linear Systems, Consistency of Linear Systems
+
+
+ Week 12
+- Nov. 7: Matrix Algebra
+- Nov. 9: Powers, Transposes, Inverses
+
+
+ Week 13
+- Nov. 14: Inverses, Linear Dependence and Linear Independence
+- Nov. 16: Midterm Test 3
+
+
+ Week 14
+- Nov. 21: Determinants
+- Nov. 23: Thanksgiving Holiday (no class)
+
+
+ Week 15
+- Nov. 28: Eigenvalues, Eigenvectors
+- Nov. 30: Systems of Differential Equations
+
+ Week 16
+- Dec. 5: Solutions of Systems of Difference Equations
+
+
+#Dec. 12: Final exam
+
+
+== Academic integrity and honesty
+
+Students are required to comply with the university policy on academic integrity found in the [https://policies.ncsu.edu/policy/pol-11-35-01/ Code of Student Conduct 11.35.01 sections 8 and 9]. Therefore, students are required to uphold the Pack Pledge: “I have neither given nor received unauthorized aid on this test or assignment.” Violations of academic integrity will be handled in accordance with the [https://policies.ncsu.edu/regulation/reg-11-35-02/ Student Discipline Procedures].
+
+
+Please refer to the [https://studentconduct.dasa.ncsu.edu/academic-integrity-overview/ Academic Integrity] web page for a detailed explanation of the University’s policies on academic integrity and some of the common understandings related to those policies.
+
+
+

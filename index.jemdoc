@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Chao Chen
+
+~~~
+{}{img_left}{./images/Chao18.jpg}{alt text}{163}{246}
+
+#{./images/Chao18.jpg}
+
+#Ph.D. \n
+#[http://icme. Institute for Computational and Mathematical Engineering] (ICME) \n
+#Standford University
+
+#M.S. in ICME, Stanford University, U.S., 2014 \n
+#B.S. in Mathematics, Nankai University, China, 2012
+
+#Adviser: [http://mc.stanford.edu/Eric_Darve Eric Darve] \n
+#Dissertation: "Parallel hierarchical solvers for general sparse linear systems with applications to ice sheet modeling"
+
+Assistant Professor \n
+Department of Mathematics \n
+North Carolina State University
+
+Contact: [chao_chen@ncsu.edu] \n
+#Software: [https://github.com/Charles-Chao-Chen] \n
+Office: SAS 4236
+
+
+~~~
+
+
+
+
+== About
+
+- I was a postdoctoral fellow working with [https://www.oden.utexas.edu/people/1056/ George Biros] and [https://users.oden.utexas.edu/~pgm/ Gunnar Martinsson] at The University of Texas at Austin.
+
+- I received my PhD from the Institute for Computational and Mathematical Engineering (ICME) at Stanford in 2018, where I was advised by [https://me.stanford.edu/person/eric-darve Eric Darve]. 
+
+- I was an intern at Nvidia Research in summer 2018, an intern at Center for Computing Research in Sandia National Laboratories for three summers (2015-2017), and an intern at Computational Materials Science Group in Lawrence Livermore National Laboratory in summer 2013.
+
+
+== Research Interests
+
+- My research focuses on developing efficient algorithms for matrix computations on modern parallel computers with applications to scientific computing and data science.
+
+
+
+#- randomized algorithms, fast algorithms 
+#- numerical linear algebra (e.g., linear solvers/preconditioners, multilevel methods and sparse matrix computations)
+#- parallel computing, high-performance computing
+#- data science, machine learning
+#
+#The following paraphrase of Shakespeare (/The Merry Wives of Windsor, Act II, Scene ii/) by [https://royalsocietypublishing.org/doi/full/10.1098/rsta.2019.0055  David Keyes et al.] tells my research motivation. 
+
+#~~~
+#{Paraphrase of Shakespeare ([https://royalsocietypublishing.org/doi/full/10.1098/rsta.2019.0055  David Keyes et al.])}
+#/``If you can speed up linear algebra kernels, the world’s your oyster, which you with sword will open.''/
+#~~~
+
+#The above paraphrase of Shakespeare (/The Merry Wives of Windsor, Act II, Scene ii/) by [https://royalsocietypublishing.org/doi/full/10.1098/rsta.2019.0055  David Keyes et al.] tells my research motivation. 
+
+
+#I am an applied mathematician who uses computational tools to solve partial differential equations. The modeling of natural phenomena may lead to large-scale numerical simulations that require significant processing units on supercomputers. Within these simulations, solving the discretized linear systems is typically the most time-consuming component. 
+
+#I work on developing new algorithms using hierarchical matrices. These methods can be faster than direct methods based on Gaussian elimination and more robust than iterative methods, such as incomplete LU factorizations.
+
+#I use parallel computing to implement new algorithms efficiently on large-scale supercomputers. I have used both the classical Message Passing Interface (MPI) and modern task-based runtime systems, and my codes run on some of the largest/fastest supercomputers in the world.
+
+#My research interests are\n
+#- Parallel linear solvers/pre-conditioners using hierarchical matrices
+#- Parallel computing, e.g., distributed-memory computing
+#- Fast numerical methods, e.g., the fast multipole method
+
+

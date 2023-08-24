@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{codes.html}, showsource
+= Software
+
+Software: [https://github.com/Charles-Chao-Chen] and [https://bitbucket.org/chao_chen/]
+
+\n
+
+
+- [https://bitbucket.org/chao_chen/hodlr_gpu/src/master/ HODLR_GPU], GPU algorithm for solving HODLR linear systems.
+
+- [https://github.com/ut-padas/rchol rchol], randomized Cholesky factorization for solving SDD linear systems.
+
+- [https://github.com/ruoxi-wang/PBBFMM3D Parallel FMM], parallel black-box fast multipole method (FMM) for share-memory machines implemented with OpenMP.
+
+- [https://github.com/ut-padas/pyrknn Randomized KNN], parallel KNN on GPU.
+
+#- [https://github.com/Charles-Chao-Chen/bbFMM bbFMM], 3D black-box fast multipole method for dislocation dynamics simulation.
+
+
+- [https://github.com/Charles-Chao-Chen/fastSolver2 Parallel fast solver], parallel code for a fast solver for weakly admissible hierarchical matrices (HODLR). (the implementation uses a new runtime library called [http://legion.stanford.edu legion]. The goal is to have a portable high performance code on distributed heterogeneous architectures.)
+
+

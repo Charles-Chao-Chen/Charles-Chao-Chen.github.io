@@ -2,11 +2,12 @@
 
 = Publications
 
-== Under review
+#== Under review
 
-#Preprints
+== Preprints
 
 
+- Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/. \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\]
 
 
 #- Ali Ghafouri, William Ruys, Chao Chen, and George Biros, /PyRKNN: a library for scalable nearest-neighbor graphs on heterogeneous architectures/.

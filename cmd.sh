@@ -1,1 +1,1 @@
-python3 jemdoc.py *.jemdoc
+python jemdoc.py *.jemdoc

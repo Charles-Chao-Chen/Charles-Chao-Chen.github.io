@@ -1179,7 +1179,7 @@ def procfile(f):
 
   menu = None
   # convert these to a dictionary.
-  showfooter = True
+  showfooter = False
   showsourcelink = False
   showlastupdated = True
   showlastupdatedtime = False

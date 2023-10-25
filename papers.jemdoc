@@ -7,6 +7,8 @@
 == Preprints
 
 
+- Tianyu Liang, Chao Chen, Gunnar Martinsson, and George Biros, /A distributed-memory parallel algorithm for discretized integral equations using Julia/. \[[https://arxiv.org/abs/2310.15458 arXiv]\]
+
 - Katherine Pearce, Chao Chen, Yijun Dong, and Gunnar Martinsson, /Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU/. \[[https://arxiv.org/pdf/2310.09417.pdf arXiv]\]
 
 - Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/. \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\]

@@ -7,6 +7,8 @@
 == Preprints
 
 
+- Anna Yesypenko, Chao Chen, and Gunnar Martinsson, /SkelFMM: A Simplified Fast Multipole Method Based on Recursive Skeletonization/. \[[https://arxiv.org/abs/2310.16668 arXiv]\]
+
 - Tianyu Liang, Chao Chen, Gunnar Martinsson, and George Biros, /A distributed-memory parallel algorithm for discretized integral equations using Julia/. \[[https://arxiv.org/abs/2310.15458 arXiv]\]
 
 - Katherine Pearce, Chao Chen, Yijun Dong, and Gunnar Martinsson, /Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU/. \[[https://arxiv.org/pdf/2310.09417.pdf arXiv]\]

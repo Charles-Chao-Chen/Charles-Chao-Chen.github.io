@@ -11,11 +11,27 @@ Times: Monday Wednesday 3:00PM - 4:15PM
 
 Location: 303 Dabney Hall
 
-#Office hours: SAS 4236, ThTh 1:00PM - 2:00PM and by appointment 
-
-#Textbook: N. J. Rose, /Introduction to Linear Analysis/, Department of Mathematics, NC State University, 1999
+Office hours: SAS 4236, Monday Wednesday 1:00PM - 2:00PM and by appointment 
 
 
+== References
+
+
+. [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares - Stephen Boyd and Lieven Vanderberghe.]
+
+. [https://catalog.lib.ncsu.edu/record/NCSU3108706 Matlab Guide - Des Higham and Nick Higham.]
+
+. [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen.]
+
+. [https://artowen.su.domains/mc/ Monte Carlo theory, methods, and examples - Art Owen.]
+
+. [http://catalog.lib.ncsu.edu/record/NCSU3551273 Scientific Computing with Case Studies, Dianne P. O'Leary.]
+
+. [https://catalog.lib.ncsu.edu/record/NCSU2375350 The Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani, Jerome Friedman.]
+
+. [https://www.mathworks.com/moler/chapters.html Numerical Computing with MATLAB - Cleve Moler.]
+
+. [https://catalog.lib.ncsu.edu/record/NCSU2513958 Matrix Methods in Data Mining and Pattern Recognition - Lars Elden.]
 
 
 == Grading
@@ -33,11 +49,11 @@ Letter grade
 #The Moodle page of this course is [https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=3432 here].
 
 
-#== Panopto
+== Panopto
 
-#Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx\#folderID=8fa5be56-1fdc-41b0-95b2-b05600cb7ff7 Panopto]. 
+Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=ca4c8ce2-8797-4e43-98b9-b0d50176147e Panopto]. 
 
-#(Classroom attendance is recommended on the substance.)
+(Classroom attendance is recommended on the substance.)
 
 
 

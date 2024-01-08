@@ -11,7 +11,21 @@ Times: Monday Wednesday 3:00PM - 4:15PM
 
 Location: 330 Dabney Hall
 
-Office hours: SAS 4236, Monday Wednesday 1:00PM - 2:00PM and by appointment 
+Office hours: SAS 4236, MW 1:00PM - 2:00PM and by appointment 
+
+
+== Topics
+
+. Round-off error, conditioning, and norms
+. Singular value decomposition
+. Least squares
+. Monte Carlo methods
+. Fourier analysis
+
+
+== Prerequisite
+
+(MA 341 or MA 405) and programming proficiency (Matlab, Python, C/C++, Julia, ...). While this is NOT a programming course, the homework assignments will involve a substantial programming component.
 
 
 == References
@@ -29,7 +43,7 @@ Office hours: SAS 4236, Monday Wednesday 1:00PM - 2:00PM and by appointment
 
 == Grading
 
-Numerical grade = homework (10\%) \+ 3 x midterms (20\%) \+ final (30\%)
+Numerical grade = problem sessions (10\%) \+ 5 homework (50\%) \+ midterm (15\%) \+ final (25\%)
 
 Letter grade
 - 97 and above is A+, starting from 93 and below 97 is A, starting from 90 and below 93 is A-. 
@@ -37,7 +51,23 @@ Letter grade
 - Anything below 60 is F.
 
 
-#== Moodle
+:{Problem sesions} There will be a problem session for each of the 5 units. During this session, students work through a problem sheet in groups of 2-3 (open book/notes). All members will receive the same grade. Every student needs to be in a different group for every session.
+
+
+:{Homework} There will be 5 assignments. Students will work in groups of 2-3. All members will receive the same grade. Every student needs to be in a different group for every homework. Each submission should be a professional looking document. Thinking of how to best present your results (e.g., what and how to plot) is part of the assignment.
+
+
+:{Midterm} The midterm will be held on Wednesday, February 28. It will be in-class and closed book. Please let me know ASAP if you can not make it and need to schedule a make-up exam.
+
+
+:{Final} The final exam will be held at 3:30PM - 6:00PM on Monday, April 29. The final exam can NOT be rescheduled for any reason.
+
+
+
+== Moodle
+
+Lecture notes and homework assignments will be posted on Moodle. 
+
 
 #The Moodle page of this course is [https://moodle-courses2324.wolfware.ncsu.edu/course/view.php?id=3432 here].
 
@@ -46,7 +76,73 @@ Letter grade
 
 Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx\#folderID=ca4c8ce2-8797-4e43-98b9-b0d50176147e Panopto]. 
 
-(Classroom attendance is recommended on the substance.)
+#(Classroom attendance is recommended on the substance.)
+
+
+
+== Tentative schedule
+
+Week 1
+- 1/8: Overview
+- 1/10: Floating point representation
+
+Week 2
+- 1/15: MLK (no class) 
+- 1/17: Floating point arithmetic
+
+Week 3
+- 1/22: Sensitivity and conditioning
+- 1/24: Norms and inner product
+
+Week 4
+- 1/29: Clustring
+- 1/31: Problem session 1
+
+Week 5
+- 2/5: Linear algebra review
+- 2/7: Linear algebra review
+
+Week 6
+- 2/12: SVD 1
+- 2/14: SVD 2
+
+Week 7
+- 2/19: Applications of SVD 1
+- 2/21: Applications of SVD 2
+
+Week 8
+- 2/26: Problem session 2
+- 2/28: Midterm
+
+Week 9
+- 3/4: Least squares 1
+- 3/6: Written communication assessment
+
+Week 10 (Spring break, no class)
+
+Week 11
+- 3/18: Least squares 2
+- 3/20: Applications of Least squares
+
+Week 12
+- 3/25: Problem session 3
+- 3/27: Probability review
+
+Week 13
+- 4/1: Central limit theorem
+- 4/3: Generating random numbers
+
+Week 14
+- 4/8: Monte Carlo methods
+- 4/10: Problem session 4
+
+Week 15
+- 4/15: Fourier series
+- 4/17: Discrete Fourier series
+
+Week 16
+- 4/22: Discrete Fourier transform
+- 4/24: Problem session 5
 
 
 
@@ -64,5 +160,9 @@ Students are required to comply with the university policy on academic integrity
 
 Please refer to the [https://studentconduct.dasa.ncsu.edu/academic-integrity-overview/ Academic Integrity] web page for a detailed explanation of the University’s policies on academic integrity and some of the common understandings related to those policies.
 
+
+== Students with Disavilities
+
+Reasonable accommondations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with the [https://dro.dasa.ncsu.edu/ Disability Servic3es Office]. For more information on NC State's policy on working with students with disabilities, please see the [https://policies.ncsu.edu/regulation/reg-02-20-01/ Academic Accommodations for Students with Disabilities Regulation].
 
 

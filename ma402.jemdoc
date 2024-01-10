@@ -97,19 +97,19 @@ Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.
 
 - Please mention the names of your group mates.
 
-- PDF is the only accepted format for project files. You may find save as PDF' or print to PDF' useful if your file is not already in that format. You may submit only one file per project. Applications such as acrobat or preview easily allow to concatenate existing PDF files if needed.
+- PDF is the only accepted format for homework files. You may find "save as PDF" or "print to PDF" useful if your file is not already in that format. You may submit only one file per homework. Applications such as acrobat or preview easily allow to concatenate existing PDF files if needed.
 
-- Your file must be titled 402_firstname_HW#. If I were to turn in Homework 1, my file would be 402_chao_HW1.pdf.
+- Your file must be titled 402_lastname_HW\#. If I were to turn in Homework 1, my file would be 402_chen_HW1.pdf.
 
-- The use of LATEX is strongly encouraged; for each project, you will be given access to not only the PDF corresponding to the project but also to the LATEX file that was used to generate it. You can use that file as a starting point.
+- The use of LaTeX is strongly encouraged; for each homework, you will be given access to not only a PDF file but also to the LaTeX file that was used to generate it. You can use that LaTeX file as a starting point.
 
-- Hand written projects are acceptable but should be scanned. Cell phone quality photos may be rejected. Hand drawn graphs to display computational results are not acceptable.
+- Hand written assignments are acceptable but should be scanned. Cell phone quality photos may be rejected. Hand drawn graphs to display computational results are not acceptable.
 
-- Your project submission should be standalone: it should contain code, figures, and the output from the code. Please do not expect us to run your code; we will only run the code if something doesn't make sense.
+- Your submission should be standalone: it should contain code, figures, and the output from the code. Please do not expect us to run your code; we will only run the code if something doesn't make sense.
 
 - If your file is too large or unreadable, it may be rejected, in which case, you may resubmit.
 
-- Late projects are not accepted unless I have been notified via email by the deadline with an acceptable reason.
+- Late submissions are not accepted.
 
 
 

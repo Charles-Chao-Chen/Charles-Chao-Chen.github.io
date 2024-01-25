@@ -61,7 +61,7 @@ Letter grade
 - Anything below 60 is F.
 
 
-:{Problem sessions} There will be an in-class problem session after each unit. During this session, students work through a problem sheet in groups of 2-3 (open book/notes). All members will receive the same grade. Every student needs to be in a different group each session. Submissions will be due the next day before 11:59 PM.
+:{Problem sessions} There will be an in-class problem session after each unit. During this session, students work through a problem sheet in groups of 2-3 (open book/notes). All members will receive the same grade. Every student needs to be in a different group each session. Submissions will be due after two days (before 11:59 PM).
 
 
 :{Homework} There will be 5 assignments, one for each unit. Again, students work in groups of 2-3. All members will receive the same grade. Every student needs to be in a different group for every homework (it could be the same group in a problem session). Each submission should be a professional looking document (preferably using LaTeX). Thinking of how to best present your results (e.g., what and how to plot) is part of the assignment.
@@ -116,16 +116,16 @@ Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.
 == Tentative schedule
 
 Week 1
-- 1/8: Overview
-- 1/10: Floating point representation
+- 1/8: Course overview, floating point representation
+- 1/10: Round off error
 
 Week 2
 - 1/15: MLK (no class) 
 - 1/17: Catastrophic cancellation
 
 Week 3
-- 1/22: Sensitivity and conditioning
-- 1/24: Norms and inner product
+- 1/22: Norms and inner product
+- 1/24: Orthogonal matrix
 
 Week 4
 - 1/29: Problem session 1

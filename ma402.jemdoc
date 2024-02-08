@@ -133,15 +133,15 @@ Week 4
 
 Week 5
 - 2/5: Low-rank compression
-- 2/7: SVD 1
+- 2/7: Matrix norm
 
 Week 6
-- 2/12: SVD 2
-- 2/14: Applications of SVD 1
+- 2/12: QR via Gram Schmidt
+- 2/14: Problem session 2
 
 Week 7
-- 2/19: Applications of SVD 2
-- 2/21: Problem session 2
+- 2/19: Modified Gram Schmidt
+- 2/21: Householder QR
 
 Week 8
 - 2/26: Midterm

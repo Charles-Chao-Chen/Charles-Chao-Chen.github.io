@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{ma303.html}, showsource
 
-#= MA 303 Linear Analysis
 = MA 402 (001) Spring 2024 Mathematics of Scientific Computing 
 
 Instructor: Chao Chen
@@ -14,20 +13,28 @@ Location: 330 Dabney Hall
 Office hours: SAS 4236, MW 1:00PM - 2:00PM and by appointment 
 
 
-== Topics
+== Introduction
 
-This course will provide an overview of methods to solve quantitative problems and analyze data. The tools to be introduced are mathematical in nature and have links to Algebra, Analysis, Geometry, Graph Theory, Probability and Topology. Students will acquire an appreciation of (1) the fundamental role played by mathematics in countless applications and (2) the exciting challenges in mathematical research that lie ahead in the analysis of large data and uncertainties. In particular, 5 main topics are
+#This course will provide an overview of methods to solve quantitative problems and analyze data. The tools to be introduced are mathematical in nature and have links to Algebra, Analysis, Geometry, Graph Theory, Probability and Topology. Students will acquire an appreciation of (1) the fundamental role played by mathematics in countless applications and (2) the exciting challenges in mathematical research that lie ahead in the analysis of large data and uncertainties. 
 
-. Round-off error, conditioning, and norms
-. Singular value decomposition
-. Least squares
-. Monte Carlo methods
-. Fourier analysis
+
+This course covers five topics in scientific computing:
+
+. How numbers are represented by a computer?
+. One of the most useful matrix decompositions: SVD
+. Least squares method (invented by Gauss to discover the planetoid Ceres)
+. Monte Carlo methods (e.g., a simple algorithm for estimating pi)
+. Fourier analysis (without which viewing images or listening to music on your phone will be impossible)
+
+This course will introduce some of the greatest algorithms in applied and computational mathematics, discuss the mathematics behind these algorithms, and demonstrate their applications in, e.g., image compression, singal processing.
+
 
 
 == Prerequisite
 
-(MA 341 or MA 405) and programming proficiency (Matlab, Python, C/C\+\+, Java, R, Julia, ...). While this is NOT a programming course, the homework assignments will involve a substantial programming component.
+Math: linear algebra, probability, and calculus.
+
+Programming proficiency: Matlab, or Python, or Julia, or C/C\+\+, or Java, or R, .... (While this is NOT a programming course, the homework assignments will involve a substantial programming component.)
 
 
 == References and resources
@@ -87,6 +94,13 @@ Lecture notes and homework assignments will be posted on Moodle.
 Lectures will be videotaped and made available via [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx\#folderID=ca4c8ce2-8797-4e43-98b9-b0d50176147e Panopto]. 
 
 #(Classroom attendance is recommended on the substance.)
+
+
+== Learning outcomes
+
+. Know algorithms and the problems they address.
+. Understand mathematics of the algorithms.
+. Apply algorithms to solve related problems.
 
 
 == Homework submission instructions
@@ -162,7 +176,7 @@ Week 12
 - 3/27: Gaussian distribution
 
 Week 13
-- 4/1: Numerical integration & random number generation
+- 4/1: Random number generation
 - 4/3: Problem session 4
 
 Week 14

@@ -43,7 +43,9 @@ Office: SAS 4236
 
 == Research Interests
 
-- My research focuses on developing efficient algorithms for matrix computations on modern parallel computers with applications to scientific computing and data science.
+- I develop efficient algorithms for matrix computations with applications to computational tasks ranging from solving partial differential equations to analyzing large high-dimensional datasets. Compared to classical algorithms, the new methods typically have lower asymptotic complexity and higher performance on modern computing platforms. Through collaborations with domain experts, I am also interested in applying new algorithms to solving real-world problems. 
+
+#My research focuses on developing efficient algorithms for matrix computations on modern parallel computers with applications to scientific computing and data science.
 
 
 

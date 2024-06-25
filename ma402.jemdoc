@@ -20,9 +20,9 @@ Office hours: SAS 4236, MW 1:00PM - 2:00PM and by appointment
 
 This course covers five topics in scientific computing:
 
-. How numbers are represented by a computer?
+. How numbers are represented on a computer?
 . One of the most useful matrix decompositions: SVD
-. Least squares method (invented by Gauss to discover the planetoid Ceres)
+. Least squares method (Gauss used it to discover the planetoid Ceres)
 . Monte Carlo methods (e.g., a simple algorithm for estimating pi)
 . Fourier analysis (without which viewing images or listening to music on your phone will be impossible)
 
@@ -32,7 +32,7 @@ This course will introduce some of the greatest algorithms in applied and comput
 
 == Prerequisite
 
-Math: linear algebra, probability, and calculus.
+Math: calculus, linear algebra, and probability.
 
 Programming proficiency: Matlab, or Python, or Julia, or C/C\+\+, or Java, or R, .... (While this is NOT a programming course, the homework assignments will involve a substantial programming component.)
 

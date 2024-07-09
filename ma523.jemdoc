@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{ma523.html}, showsource
+
+= MA 523 (001) Fall 2024 Linear Transformations and Matrix Theory 
+
+Instructor: Chao Chen
+
+Email: chao_chen@ncsu.edu (Please include course number in the subject.)
+
+Times: Monday Wednesday Friday 12:50PM - 1:40PM
+
+Location: 02225 SAS Hall
+
+Office hours: SAS 4236, MW 2:00PM - 3:00PM and by appointment 
+
+
+== Introduction
+
+This is a theory course covering topics including vector spaces, linear transformations and matrices, orthogonality, orthogonal transformations with emphasis on rotations and reflections, matrix norms, projectors, least squares, generalized inverses, definite matrices, singular values.
+
+
+
+
+#== Prerequisite
+
+#Math: calculus, linear algebra, and probability.
+
+#Programming proficiency: Matlab, or Python, or Julia, or C/C\+\+, or Java, or R, .... (While this is NOT a programming course, the homework assignments will involve a substantial programming component.)
+
+
+== References and resources
+
+. Lecture notes will be posted on Moodle
+. Lecture reccordings will be available on Panapto
+
+
+. [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares - Stephen Boyd and Lieven Vanderberghe.]
+. [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen.]
+
+
+#Learning Matlab
+#- [https://matlabacademy.mathworks.com/ MATLAB self-paced, online courses]
+#- [https://catalog.lib.ncsu.edu/record/NCSU3108706 Matlab Guide - Des Higham and Nick Higham.]
+#- [https://www.mathworks.com/moler/chapters.html Numerical Computing with MATLAB - Cleve Moler.]
+
+
+#Using LaTeX \n
+#LaTeX can help produce beautifully typeset documents and is particularly useful for communicating mathematics. I highly encourage you to learn it.
+#- Overleaf [https://www.overleaf.com/edu/ncsu online editor]
+#- LaTeX [https://guides.nyu.edu/c.php?g=601858&p=4168135 NYU website]
+
+
+

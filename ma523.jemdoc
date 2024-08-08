@@ -8,33 +8,30 @@ Email: chao_chen@ncsu.edu (Please include course number in the subject.)
 
 Times: Monday Wednesday Friday 12:50PM - 1:40PM
 
-Location: 02225 SAS Hall
+Location: 2225 SAS Hall
 
 Office hours: SAS 4236, MW 2:00PM - 3:00PM and by appointment 
 
 
 == Introduction
 
-This is a theory course covering topics including vector spaces, linear transformations and matrices, orthogonality, orthogonal transformations with emphasis on rotations and reflections, matrix norms, projectors, least squares, generalized inverses, definite matrices, singular values.
+This is a *theory* course covering topics including vector spaces, linear transformations and matrices, orthogonality, orthogonal transformations with emphasis on rotations and reflections, matrix norms, projectors, least squares, generalized inverses, definite matrices, singular values.
+
+. Prerequisite: [https://catalog.ncsu.edu/search/?P=MA%20405 MA 405]
 
 
+== Textbook
 
-
-#== Prerequisite
-
-#Math: calculus, linear algebra, and probability.
-
-#Programming proficiency: Matlab, or Python, or Julia, or C/C\+\+, or Java, or R, .... (While this is NOT a programming course, the homework assignments will involve a substantial programming component.)
+. [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen.]
 
 
 == References and resources
 
-. Lecture notes will be posted on Moodle
-. Lecture reccordings will be available on Panapto
+- Lecture notes will be posted on Moodle
+- Lecture reccordings will be available on [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=38ae9598-98d7-4f3b-9e06-b1c2007712f6 Panapto]
 
 
-. [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares - Stephen Boyd and Lieven Vanderberghe.]
-. [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen.]
+#. [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares - Stephen Boyd and Lieven Vanderberghe.]
 
 
 #Learning Matlab
@@ -43,10 +40,14 @@ This is a theory course covering topics including vector spaces, linear transfor
 #- [https://www.mathworks.com/moler/chapters.html Numerical Computing with MATLAB - Cleve Moler.]
 
 
-#Using LaTeX \n
-#LaTeX can help produce beautifully typeset documents and is particularly useful for communicating mathematics. I highly encourage you to learn it.
-#- Overleaf [https://www.overleaf.com/edu/ncsu online editor]
-#- LaTeX [https://guides.nyu.edu/c.php?g=601858&p=4168135 NYU website]
+Using LaTeX \n
+LaTeX can help produce beautifully typeset documents and is particularly useful for communicating mathematics. 
+- Overleaf [https://www.overleaf.com/edu/ncsu online editor]
+- LaTeX [https://guides.nyu.edu/c.php?g=601858&p=4168135 NYU website]
 
+
+#== Homeworks
+
+#Weekly homeworks will be assigned
 
 

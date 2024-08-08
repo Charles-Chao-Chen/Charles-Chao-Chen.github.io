@@ -17,18 +17,14 @@ Office hours: SAS 4236, MW 2:00PM - 3:00PM and by appointment
 
 This is a *theory* course covering topics including vector spaces, linear transformations and matrices, orthogonality, orthogonal transformations with emphasis on rotations and reflections, matrix norms, projectors, least squares, generalized inverses, definite matrices, singular values.
 
-. Prerequisite: [https://catalog.ncsu.edu/search/?P=MA%20405 MA 405]
-
-
-== Textbook
-
-. [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen.]
+- Prerequisite: [https://catalog.ncsu.edu/search/?P=MA%20405 MA 405]
 
 
 == References and resources
 
-- Lecture notes will be posted on Moodle
-- Lecture reccordings will be available on [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=38ae9598-98d7-4f3b-9e06-b1c2007712f6 Panapto]
+- Textbook: [http://catalog.lib.ncsu.edu/record/NCSU2514760 Numerical Matrix Analysis: Linear Systems and Least Squares - Ilse Ipsen].
+- Lecture notes will be posted on [https://moodle-courses2425.wolfware.ncsu.edu/course/view.php?id=3113&bp=s Moodle].
+- Lecture reccordings will be available on [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx\#folderID=38ae9598-98d7-4f3b-9e06-b1c2007712f6 Panapto]
 
 
 #. [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares - Stephen Boyd and Lieven Vanderberghe.]
@@ -46,8 +42,30 @@ LaTeX can help produce beautifully typeset documents and is particularly useful 
 - LaTeX [https://guides.nyu.edu/c.php?g=601858&p=4168135 NYU website]
 
 
-#== Homeworks
 
-#Weekly homeworks will be assigned
+
+== Grading
+
+Numerical grade = homework (30\%) \+ midterms (35\%) \+ final (35\%)
+
+Letter grade
+- 97 and above is A+, starting from 93 and below 97 is A, starting from 90 and below 93 is A-. 
+- Similar for the B, C, and D ranges. 
+- Anything below 60 is F.
+
+
+
+
+== Academic integrity and honesty
+
+Students are required to comply with the university policy on academic integrity found in the [https://policies.ncsu.edu/policy/pol-11-35-01/ Code of Student Conduct 11.35.01 sections 8 and 9]. Therefore, students are required to uphold the Pack Pledge: “I have neither given nor received unauthorized aid on this test or assignment.” Violations of academic integrity will be handled in accordance with the [https://policies.ncsu.edu/regulation/reg-11-35-02/ Student Discipline Procedures].
+
+
+Please refer to the [https://studentconduct.dasa.ncsu.edu/academic-integrity-overview/ Academic Integrity] web page for a detailed explanation of the University’s policies on academic integrity and some of the common understandings related to those policies.
+
+
+== Students with Disavilities
+
+Reasonable accommondations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with the [https://dro.dasa.ncsu.edu/ Disability Servic3es Office]. For more information on NC State's policy on working with students with disabilities, please see the [https://policies.ncsu.edu/regulation/reg-02-20-01/ Academic Accommodations for Students with Disabilities Regulation].
 
 

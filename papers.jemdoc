@@ -19,7 +19,7 @@
 
 == Refereed Journal and Conference Papers
 
-- Tianyu Liang, Chao Chen, Gunnar Martinsson, and George Biros, /An O(N) distributed-memory parallel direct solver for planar integral equations/, accepted by IPDPS'24. \[[https://arxiv.org/abs/2310.15458 arXiv]\]
+- Tianyu Liang, Chao Chen, Gunnar Martinsson, and George Biros, /An O(N) distributed-memory parallel direct solver for planar integral equations/, 2024 IEEE International Parallel and Distributed Processing Symposium (IPDPS). IEEE, 2024. \[[https://arxiv.org/abs/2310.15458 arXiv]\]
 
 
 - Nathan Heavner, Chao Chen, Abinand Gopal, and Per-Gunnar Martinsson, /Efficient algorithms for computing rank-revealing factorizations on a GPU/, Numerical Linear Algebra with Applications (2023). \[[https://arxiv.org/abs/2106.13402 arXiv]\]

@@ -7,6 +7,8 @@
 == Preprints
 
 
+- William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/.
+
 - Anna Yesypenko, Chao Chen, and Gunnar Martinsson, /SkelFMM: A Simplified Fast Multipole Method Based on Recursive Skeletonization/. \[[https://arxiv.org/abs/2310.16668 arXiv]\]
 
 - Katherine Pearce, Chao Chen, Yijun Dong, and Gunnar Martinsson, /Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU/. \[[https://arxiv.org/pdf/2310.09417.pdf arXiv]\]
@@ -14,7 +16,6 @@
 - Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/. \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\]
 
 
-#- Ali Ghafouri, William Ruys, Chao Chen, and George Biros, /PyRKNN: a library for scalable nearest-neighbor graphs on heterogeneous architectures/.
 
 
 == Refereed Journal and Conference Papers

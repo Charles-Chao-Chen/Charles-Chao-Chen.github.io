@@ -21,7 +21,7 @@
 - Anna Yesypenko, Chao Chen, and Gunnar Martinsson, /A Simplified Fast Multipole Method Based on Recursive Skeletonization/, Journal of Computational Physics 524 (2025). \[[https://arxiv.org/abs/2310.16668 arXiv]\]
 
 
-- Katherine Pearce, Chao Chen, Yijun Dong, and Gunnar Martinsson, /Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU/, (accepted) Numerical Linear Algebra with Applications. \[[https://arxiv.org/pdf/2310.09417.pdf arXiv]\]
+- Katherine Pearce, Chao Chen, Yijun Dong, and Gunnar Martinsson, /Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU/, Numerical Linear Algebra with Applications 32-1 (2025). \[[https://arxiv.org/pdf/2310.09417.pdf arXiv]\]
 
 
 - Tianyu Liang, Chao Chen, Gunnar Martinsson, and George Biros, /An O(N) distributed-memory parallel direct solver for planar integral equations/, 2024 IEEE International Parallel and Distributed Processing Symposium (IPDPS). IEEE, 2024. \[[https://arxiv.org/abs/2310.15458 arXiv]\]

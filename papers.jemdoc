@@ -7,15 +7,14 @@
 == Preprints
 
 
-- William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/.
-
-
 
 
 
 
 == Refereed Journal and Conference Papers
 
+
+- William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/, accepted by ACM Transactions on Parallel Computing.
 
 - Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/, accepted by SIAM Journal on Matrix Analysis and Applications. \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\]
 

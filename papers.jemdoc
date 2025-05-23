@@ -50,11 +50,11 @@
 - Chao Chen, Hadi Pouransari, Sivasankaran Rajamanickam, Erik G. Boman, and Eric Darve, /A distributed-memory hierarchical solver for general sparse linear systems/, Parallel Computing 74 (2018). \[[pubs/parh2.pdf PDF]\]
 
 
-== Technical reports
+#== Technical reports
 
-- Chao Chen, Raymond Tuminaro, Sivasankaran Rajamanickam, Erik G. Boman and Eric Darve, /A Hierarchical Solver for Extruded Meshes with Applications to Ice Sheet Modeling/, Center for Computing Research Summer Proceedings 2017, A.D. Baczewski and M.L. Parks, eds., Technical Report SAND2018-2780O, Sandia National Laboratories, 2018, pp. 3--18.
+#- Chao Chen, Raymond Tuminaro, Sivasankaran Rajamanickam, Erik G. Boman and Eric Darve, /A Hierarchical Solver for Extruded Meshes with Applications to Ice Sheet Modeling/, Center for Computing Research Summer Proceedings 2017, A.D. Baczewski and M.L. Parks, eds., Technical Report SAND2018-2780O, Sandia National Laboratories, 2018, pp. 3--18.
 
-- Chao Chen, Sivasankaran Rajamanickam, Erik G. Boman and Eric Darve, /Parallel hierarchical solver for elliptic partial differential equations/, Center for Computing Research Summer Proceedings 2016, J.B. Carleton and M.L. Parks, eds., Technical Report SAND2017-1294R, Sandia National Laboratories, 2017, pp. 3--16.
+#- Chao Chen, Sivasankaran Rajamanickam, Erik G. Boman and Eric Darve, /Parallel hierarchical solver for elliptic partial differential equations/, Center for Computing Research Summer Proceedings 2016, J.B. Carleton and M.L. Parks, eds., Technical Report SAND2017-1294R, Sandia National Laboratories, 2017, pp. 3--16.
 
 
 

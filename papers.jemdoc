@@ -14,9 +14,9 @@
 == Refereed Journal and Conference Papers
 
 
-- William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/, accepted by ACM Transactions on Parallel Computing.
+- William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/, ACM Transactions on Parallel Computing (2025).
 
-- Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/, accepted by SIAM Journal on Matrix Analysis and Applications. \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\] \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
+- Yijun Dong, Chao Chen, Gunnar Martinsson, and Katherine Pearce, /Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition/, SIAM Journal on Matrix Analysis and Applications (2025). \[[https://arxiv.org/pdf/2309.16002.pdf arXiv]\] \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
 
 - Anna Yesypenko, Chao Chen, and Gunnar Martinsson, /A Simplified Fast Multipole Method Based on Recursive Skeletonization/, Journal of Computational Physics 524 (2025). \[[https://arxiv.org/abs/2310.16668 arXiv]\] \[[https://github.com/annayesy/skelFMM code]\]
 

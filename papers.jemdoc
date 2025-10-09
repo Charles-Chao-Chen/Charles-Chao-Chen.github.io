@@ -43,11 +43,11 @@
 
 - Toru Takahashi, Chao Chen, and Eric Darve, /Parallelization of the inverse fast multipole method with an application to boundary element method/, Computer Physics Communications 247 (2020). \[[https://arxiv.org/abs/1905.10602 arXiv]\]
 
-- Chao Chen, Leopold Cambier, Erik G. Boman, Sivasankaran Rajamanickam, Raymond S. Tuminaro, and Eric Darve, /A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling/, Journal of Computational Physics 396 (2019). \[[pubs/ice_sheet.pdf PDF]\]
+- Chao Chen, Leopold Cambier, Erik G. Boman, Sivasankaran Rajamanickam, Raymond S. Tuminaro, and Eric Darve, /A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling/, Journal of Computational Physics 396 (2019). \[[https://arxiv.org/abs/1811.11248 arXiv]\]
 
-- Chao Chen, Sylvie Aubry, Tomas Oppelstrup, Tom Arsenlis, and Eric Darve, /Fast algorithms for evaluating the stress field of dislocation lines in anisotropic elastic media/, Modeling and Simulation in Materials Science and Engineering 26-4 (2018). \[[pubs/fmm_dd.pdf PDF]\]
+- Chao Chen, Sylvie Aubry, Tomas Oppelstrup, Tom Arsenlis, and Eric Darve, /Fast algorithms for evaluating the stress field of dislocation lines in anisotropic elastic media/, Modeling and Simulation in Materials Science and Engineering 26-4 (2018). \[[https://arxiv.org/pdf/1712.07739 arXiv]\]
 
-- Chao Chen, Hadi Pouransari, Sivasankaran Rajamanickam, Erik G. Boman, and Eric Darve, /A distributed-memory hierarchical solver for general sparse linear systems/, Parallel Computing 74 (2018). \[[pubs/parh2.pdf PDF]\]
+- Chao Chen, Hadi Pouransari, Sivasankaran Rajamanickam, Erik G. Boman, and Eric Darve, /A distributed-memory hierarchical solver for general sparse linear systems/, Parallel Computing 74 (2018). \[[https://arxiv.org/abs/1712.07297 arXiv]\]
 
 
 #== Technical reports

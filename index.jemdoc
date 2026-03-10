@@ -32,13 +32,13 @@ Phone: 919-513-3212
 
 == Research Interests
 
-My research focuses on the intersection of *Randomized Numerical Linear Algebra (RandLA), Scientific Machine Learning (SciML), and High-Performance Computing (HPC).* I develop scalable, hardware-aware algorithms to solve challenging problems in scientific computing, with a particular focus on
+My research focuses on the intersection of Randomized Numerical Linear Algebra (RandLA), Scientific Machine Learning (SciML), and High-Performance Computing (HPC). I develop scalable, hardware-aware algorithms to solve challenging problems in scientific computing, with a particular focus on
 
-#- *Hierarchical Compression:* Establishing theory, algorithm, and practice for $$\mathcal{H}$$-matrix approximation, which enables linear sovlers, uncertainty quantification, and operator learning for elliptic PDEs.
+- Hierarchical Compression: Developing theory, algorithms, and software for $H$-matrix approximations with applications to scalable linear sovlers, uncertainty quantification, and operator learning for elliptic PDEs.
 
-- *Graph Laplacian Solvers:* Developing randomized sepctral sparsification for large-scale, high-dimensional data.
+- Graph Laplacian Solvers: Developing randomized sepctral sparsification for large-scale, high-dimensional data.
 
-- *Hardware-Software Co-Design:* Developing communication-avoiding kernels for GPU-accelerated supercomputers.
+- Hardware-Software Co-Design: Developing communication-avoiding kernels for GPU-accelerated supercomputers.
 
 
 == Short Biography

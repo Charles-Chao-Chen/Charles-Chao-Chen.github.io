@@ -41,6 +41,19 @@ My research focuses on the intersection of Randomized Numerical Linear Algebra (
 - Hardware-Software Co-Design: Developing communication-avoiding kernels for GPU-accelerated supercomputers.
 
 
+== Recent News
+
+- Talk at Applied Math Seminar (online) at University of Arkansas (upcoming).
+
+- Co-organized a Minisymposium "Hierarchical Low-Rank Approximations: Algorithms and Applications" with [https://asaibab.math.ncsu.edu/ Arvind Saibaba] at 27th Conference of the International Linear Algebra Society (ILAS 2026).
+
+- Co-organized a Minisymposium "Low-rank Approximation with Applications to Hierarchical Matrices and Tensors" with [https://liuyangzhuan.github.io/ Yang Liu] at SIAM Conference on Parallel Processing for Scientific Computing (PP26).
+
+- Preprint "Parametric Hierarchical Matrix Approximations to Kernel Matrices" with Abraham, Vishwas, and Arvind is available [https://arxiv.org/abs/2511.03109 arXiv]. 
+
+- Preprint "Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners" with Liang, Yaniv, Luo, Tench, Li, Buluc, Demmel, is available [https://arxiv.org/abs/2505.02977 arXiv].
+
+
 == Short Biography
 
 Before joining NC State, Chao Chen was a postdoctoral researcher at the Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin, working with [https://www.oden.utexas.edu/people/1056/ George Biros] and [https://users.oden.utexas.edu/~pgm/ Per-Gunnar Martinsson]. He received his PhD in 2018 Stanford University's Institute for Computational and Mathematical Engineering (ICME), advised by [https://me.stanford.edu/person/eric-darve Eric Darve]. 

@@ -17,7 +17,8 @@ By exploiting low-rank off-diagonal structures, we enable $O(N)$ methods for den
 
 - *A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling*, C. Chen, E. G. Boman, S. Rajamanickam, R. S. Tuminaro, E. Darve, /Journal of Computational Physics/, 2019.
 
-- *A Distributed-Memory Hierarchical Solver for General Sparse Linear Systems*, C. Chen, H. Pouransari, S. Rajamanickam, E. G. Boman, E. Darve, /Parallel Computing/, 2018.
+
+- *A Simplified Fast Multipole Method Based on Recursive Skeletonization*, A. Yesypenko, C. Chen, P.G. Martinsson /Journal of Computational Physics/, 2025.
 
 - *Fast Algorithms for Evaluating the Stress Field of Dislocation Lines*, C. Chen, S. Aubry, T. Oppelstrup, T. Arsenlis, E. Darve,, /Modeling and Simulation in Materials Science and Engineering /, 2018.
 

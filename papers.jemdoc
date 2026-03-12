@@ -24,7 +24,7 @@ By exploiting low-rank off-diagonal structures, we enable $O(N)$ methods for den
 
 === Randomized Numerical Linear Algebra (RandNLA)
 
-Our work utilizes stable randomized sketching and adaptive construction methods to accelerate large-scale matrix computations.
+Our work utilizes stable randomized sketching and adaptive sampling methods to accelerate large-scale matrix computations.
 
 
 - *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, /SIAM Journal on Matrix Analysis and Applications/, 2025.

@@ -10,7 +10,7 @@ My research group focuses on the intersection of randomized numerical linear alg
 
 === Hierarchical Compression & Applications (Geophysics and Materials Science)
 
-By exploiting low-rank off-diagonal structures, we enable $O(N)$ methods for dense and sparse matrices arising from scientific computing applications.
+By exploiting low-rank off-diagonal structures, we derive O(N) methods for dense and sparse matrices arising from scientific computing applications.
 
 
 - *Parametric Hierarchical Matrix Approximations to Kernel Matrices*, A. Khan, C. Chen, V. Rao, A. K. Saibaba, /arXiv:2511.03109/, 2025.

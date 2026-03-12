@@ -46,7 +46,7 @@ The central theme of my research is the development of *robust, scalable, and pr
 
 
 - Hierarchical Compression: 
-I seek to unify *Hierarchical-matrix (\(\mathcal{H}\)-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we enable $O(N)$ operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
+I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we attain O(N) operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
 
 
 - Trustworthy Randomized NLA (RandNLA):

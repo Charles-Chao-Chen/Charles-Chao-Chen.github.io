@@ -13,7 +13,7 @@ My research group focuses on the intersection of randomized numerical linear alg
 By exploiting low-rank off-diagonal structures, we derive O(N) methods for dense and sparse matrices arising from scientific computing applications.
 
 
-- *Parametric Hierarchical Matrix Approximations to Kernel Matrices*, A. Khan, C. Chen, V. Rao, A. K. Saibaba, arXiv 2025. [https://arxiv.org/abs/2511.03109 arXiv].
+- *Parametric Hierarchical Matrix Approximations to Kernel Matrices*, A. Khan, C. Chen, V. Rao, A. K. Saibaba, arXiv 2025. \[[https://arxiv.org/abs/2511.03109 arXiv]\].
 
 
 - *A Simplified Fast Multipole Method Based on Recursive Skeletonization*, A. Yesypenko, C. Chen, P.G. Martinsson, JCP 2025. \[[https://github.com/annayesy/skelFMM code]\]
@@ -46,7 +46,7 @@ Our work utilizes stable randomized sketching and adaptive sampling methods to a
 
 We engineer communication-avoiding kernels optimized for GPU-accelerated architectures.
 
-- *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. [https://arxiv.org/abs/2505.02977 arXiv].
+- *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. \[[https://arxiv.org/abs/2505.02977 arXiv]\].
 
 - *Scalable KNN Graph Construction on Heterogeneous Architectures*, W. Ruys, A. Ghafouri, C. Chen, G. Biros, ACM TOPC 2025. \[[https://github.com/ut-padas/pyrknn code]\]
 

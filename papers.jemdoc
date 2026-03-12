@@ -1,10 +1,61 @@
 # jemdoc: menu{MENU}{papers.html}, showsource
 
-= Publications
+= Research & Publications
 
-#== Under review
+My research group focuses on the intersection of randomized numerical linear algebra, hierarchical matrix theory, and high-performance computing. We develop scalable algorithms that bridge foundational mathematics with exascale scientific applications.
 
-== Preprints
+
+== Research Themes
+
+
+=== Hierarchical Compression & Applications (Geophysics and Materials Science)
+
+By exploiting low-rank off-diagonal structures, we enable $O(N)$ methods for dense and sparse matrices arising from scientific computing applications.
+
+
+- *Parametric Hierarchical Matrix Approximations to Kernel Matrices*, A. Khan, C. Chen, V. Rao, A. K. Saibaba, /arXiv:2511.03109/, 2025.
+
+- *A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling*, C. Chen, E. G. Boman, S. Rajamanickam, R. S. Tuminaro, E. Darve, /Journal of Computational Physics/, 2019.
+
+- *A Distributed-Memory Hierarchical Solver for General Sparse Linear Systems*, C. Chen, H. Pouransari, S. Rajamanickam, E. G. Boman, E. Darve, /Parallel Computing/, 2018.
+
+- *Fast Algorithms for Evaluating the Stress Field of Dislocation Lines*, C. Chen, S. Aubry, T. Oppelstrup, T. Arsenlis, E. Darve,, /Modeling and Simulation in Materials Science and Engineering /, 2018.
+
+
+=== Randomized Numerical Linear Algebra (RandNLA)
+
+Our work utilizes stable randomized sketching and adaptive construction methods to accelerate large-scale matrix computations.
+
+
+- *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, /SIAM Journal on Matrix Analysis and Applications/, 2025.
+
+- *Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU*, K. Pearce, C. Chen, Y. Dong, P.G. Martinsson, /Numerical Linear Algebra with Applications/, 2025.
+
+- *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, /SIAM Journal on Scientific Computing/, 2021.
+
+- *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, /SIAM Journal on Scientific Computing/, 2020.
+
+
+
+== High Performance Computing (HPC)
+
+We engineer communication-avoiding kernels optimized for GPU-accelerated architectures.
+
+- *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, /arXiv:2505.02977/, 2025.
+
+- *Scalable KNN Graph Construction on Heterogeneous Architectures*, W. Ruys, A. Ghafouri, C. Chen, G. Biros, /ACM Transactions on Parallel Computing/, 2025.
+
+
+- *An O(N) distributed-memory parallel direct solver for planar integral equations*, T. Liang, C. Chen, P.G. Martinsson, G. Biros, /IEEE International Parallel and Distributed Processing Symposium (IPDPS)/, 2024.
+
+
+- *Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations*, C. Chen, P.G. Martinsson, /Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (Super Computing)/, 2022.
+
+
+== Full Publication List
+
+
+=== Preprints
 
 
 - Abraham Khan, Chao Chen, Vishwas Rao, Arvind K. Saibaba, /Parametric Hierarchical Matrix Approximations to Kernel Matrices/. \[[http://arxiv.org/abs/2511.03109 arXiv]\]
@@ -13,7 +64,7 @@
 
 
 
-== Refereed Journal and Conference Papers
+=== Refereed Journal and Conference Papers
 
 
 - William Ruys, Ali Ghafouri, Chao Chen, and George Biros, /Scalable KNN graph construction on heterogeneous architectures/, ACM Transactions on Parallel Computing (2025).

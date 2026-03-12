@@ -42,7 +42,7 @@ Our work utilizes stable randomized sketching and adaptive sampling methods to a
 
 
 
-== High Performance Computing (HPC)
+=== High Performance Computing (HPC)
 
 We engineer communication-avoiding kernels optimized for GPU-accelerated architectures.
 

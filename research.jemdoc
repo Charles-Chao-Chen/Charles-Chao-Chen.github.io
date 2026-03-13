@@ -6,7 +6,7 @@ The central theme of my research is the development of *robust, scalable, and pr
 
 
 ~~~
-{Hierarchical Compression & Geophysics}
+{Hierarchical Compression \& Geophysics}
 
 I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we attain O(N) operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
 ~~~
@@ -25,10 +25,12 @@ I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositi
 #- *Fast Algorithms for Evaluating the Stress Field of Dislocation Lines*, C. Chen, S. Aubry, T. Oppelstrup, T. Arsenlis, E. Darve, /Modeling and Simulation in Materials Science and Engineering /, 2018.
 
 
-== Randomized Numerical Linear Algebra (RandNLA)
+~~~
+{Randomized Numerical Linear Algebra (RandNLA)}
 
-Our work utilizes stable randomized sketching and adaptive sampling methods to accelerate large-scale matrix computations.
+Reliability is paramount in scientific discovery. My work in *Randomized Numerical Linear Algebra* focuses on moving beyond empirical speedups toward provable stability. By developing adaptive sketching and pivoting methods, we ensure that randomized solvers maintain the same precision as their deterministic counterparts while providing the massive speedups
 
+~~~
 
 - *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, SIMAX 2025. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
 
@@ -39,10 +41,12 @@ Our work utilizes stable randomized sketching and adaptive sampling methods to a
 - *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, SIMAX 2020.
 
 
+~~~
+{High Performance Computing (HPC)}
 
-== High Performance Computing (HPC)
+Theoretical breakthroughs must translate to wall-clock performance. Leveraging my experiences at *Sandia and LLNL*, my group develops communication-avoiding algorithms optimized for GPU-accelerated architectures. We apply these kernels to challenging problems, such as the nonlinear Stokes equations in *ice sheet modeling* and dislocation dynamics. Our mathematical advances solve some of the most pressing physical modeling barriers.
 
-We engineer communication-avoiding kernels optimized for GPU-accelerated architectures.
+~~~
 
 - *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. \[[https://arxiv.org/abs/2505.02977 arXiv]\].
 

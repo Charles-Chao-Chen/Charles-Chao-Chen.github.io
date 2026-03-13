@@ -40,21 +40,21 @@ Chao has held research internships at NVIDIA Research (2018), Sandia National La
 
 
 
-== Research Vision
+#== Research Vision
 
-The central theme of my research is the development of *robust, scalable, and provable numerical algorithms* that overcome the "curse of dimensionality" in modern scientific computing. As we transition into the exascale era, the primary bottlenecks in simulation and discovery are no longer just floating-point operations, but the massive communication costs and super-linear scaling inherent in high-dimensional operators. My research program addresses these challenges through three integrated pillars:
-
-
-- Hierarchical Compression: 
-I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we attain O(N) operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
+#The central theme of my research is the development of *robust, scalable, and provable numerical algorithms* that overcome the "curse of dimensionality" in modern scientific computing. As we transition into the exascale era, the primary bottlenecks in simulation and discovery are no longer just floating-point operations, but the massive communication costs and super-linear scaling inherent in high-dimensional operators. My research program addresses these challenges through three integrated pillars:
 
 
-- Trustworthy Randomized NLA (RandNLA):
-Reliability is paramount in scientific discovery. My work in *Randomized Numerical Linear Algebra* focuses on moving beyond empirical speedups toward provable stability. By developing adaptive sketching and pivoting methods, we ensure that randomized solvers maintain the same precision as their deterministic counterparts while providing the massive speedups.
+#- Hierarchical Compression: 
+#I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we attain O(N) operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
 
 
-- Hardware-Software Co-Design for Exascale Physics:
-Theoretical breakthroughs must translate to wall-clock performance. Leveraging my experiences at *Sandia and LLNL*, my group develops communication-avoiding algorithms optimized for GPU-accelerated architectures. We apply these kernels to challenging problems, such as the nonlinear Stokes equations in *ice sheet modeling* and dislocation dynamics. Our mathematical advances solve some of the most pressing physical modeling barriers.
+#- Trustworthy Randomized NLA (RandNLA):
+#Reliability is paramount in scientific discovery. My work in *Randomized Numerical Linear Algebra* focuses on moving beyond empirical speedups toward provable stability. By developing adaptive sketching and pivoting methods, we ensure that randomized solvers maintain the same precision as their deterministic counterparts while providing the massive speedups.
+
+
+#- Hardware-Software Co-Design for Exascale Physics:
+#Theoretical breakthroughs must translate to wall-clock performance. Leveraging my experiences at *Sandia and LLNL*, my group develops communication-avoiding algorithms optimized for GPU-accelerated architectures. We apply these kernels to challenging problems, such as the nonlinear Stokes equations in *ice sheet modeling* and dislocation dynamics. Our mathematical advances solve some of the most pressing physical modeling barriers.
 
 
 

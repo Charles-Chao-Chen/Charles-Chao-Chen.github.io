@@ -6,6 +6,22 @@ The central theme of my research is the development of *robust, scalable, and pr
 
 
 ~~~
+{Randomized Numerical Linear Algebra (RandNLA)}
+
+Reliability is paramount in scientific discovery. My work in *Randomized Numerical Linear Algebra* focuses on moving beyond empirical speedups toward provable stability. By developing adaptive sketching and pivoting methods, we ensure that randomized solvers maintain the same precision as their deterministic counterparts while providing the massive speedups
+
+~~~
+
+- *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, SIMAX 2025. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
+
+- *Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU*, K. Pearce, C. Chen, Y. Dong, P.G. Martinsson, NLAA 2025. \[[https://github.com/kjpearce/randLUPPadap code]\]
+
+- *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, SISC 2021. \[[https://github.com/ut-padas/rchol code]\] 
+
+- *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, SIMAX 2020.
+
+
+~~~
 {Hierarchical Compression \& Geophysics}
 
 I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositions* to create "full-stack" compression frameworks. By exploiting the low-rank structure of Green's functions and high-dimensional kernel matrices, we attain O(N) operations for systems that were previously computationally intractable. This work can provide the mathematical backbone for operator learning, replacing black-box neural networks with transparent, physics-respecting approximations.
@@ -23,22 +39,6 @@ I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositi
 - *A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling*, C. Chen, E. G. Boman, S. Rajamanickam, R. S. Tuminaro, E. Darve, JCP 2019.
 
 #- *Fast Algorithms for Evaluating the Stress Field of Dislocation Lines*, C. Chen, S. Aubry, T. Oppelstrup, T. Arsenlis, E. Darve, /Modeling and Simulation in Materials Science and Engineering /, 2018.
-
-
-~~~
-{Randomized Numerical Linear Algebra (RandNLA)}
-
-Reliability is paramount in scientific discovery. My work in *Randomized Numerical Linear Algebra* focuses on moving beyond empirical speedups toward provable stability. By developing adaptive sketching and pivoting methods, we ensure that randomized solvers maintain the same precision as their deterministic counterparts while providing the massive speedups
-
-~~~
-
-- *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, SIMAX 2025. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
-
-- *Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU*, K. Pearce, C. Chen, Y. Dong, P.G. Martinsson, NLAA 2025. \[[https://github.com/kjpearce/randLUPPadap code]\]
-
-- *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, SISC 2021. \[[https://github.com/ut-padas/rchol code]\] 
-
-- *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, SIMAX 2020.
 
 
 ~~~

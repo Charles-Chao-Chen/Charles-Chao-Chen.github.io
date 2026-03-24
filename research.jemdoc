@@ -22,13 +22,15 @@ Reliability is paramount in scientific discovery. My work in *Randomized Numeric
 \[[https://arxiv.org/abs/2310.09417 arXiv]\]
 \[[https://github.com/kjpearce/randLUPPadap code]\]
 
+
+- *Efficient algorithms for computing rank-revealing factorizations on a GPU*, N. Heavner, C. Chen, A. Gopal, and P.G. Martinsson, NLAA 2023. \[[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2515 journal]\]. \[[https://arxiv.org/abs/2106.13402 arXiv]\]
+
+
 - *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, SISC 2021. 
 \[[https://epubs.siam.org/doi/10.1137/20M1380624 journal]\]
 \[[https://arxiv.org/abs/2011.07769 arXiv]\]
 \[[https://github.com/ut-padas/rchol code]\] 
 
-
-- *Efficient algorithms for computing rank-revealing factorizations on a GPU*, N. Heavner, C. Chen, A. Gopal, and P.G. Martinsson, NLAA 2023. \[[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2515 journal]\]. \[[https://arxiv.org/abs/2106.13402 arXiv]\]
 
 
 

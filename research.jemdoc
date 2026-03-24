@@ -70,18 +70,24 @@ Theoretical breakthroughs must translate to wall-clock performance. Leveraging m
 
 ~~~
 
-- *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. \[[https://arxiv.org/abs/2505.02977 arXiv]\].
+- *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. \[[https://arxiv.org/abs/2505.02977 arXiv]\]
 
 #- *Scalable KNN Graph Construction on Heterogeneous Architectures*, W. Ruys, A. Ghafouri, C. Chen, G. Biros, ACM TOPC 2025. \[[https://github.com/ut-padas/pyrknn code]\]
 
 
-- *An O(N) distributed-memory parallel direct solver for planar integral equations*, T. Liang, C. Chen, P.G. Martinsson, G. Biros, IPDPS 2024. \[[https://github.com/Tianyu-Liang/DINFMM/tree/main code]\]
+- *An O(N) distributed-memory parallel direct solver for planar integral equations*, T. Liang, C. Chen, P.G. Martinsson, G. Biros, IPDPS 2024. 
+\[[https://ieeexplore.ieee.org/document/10579133 proceeding]\]
+\[[https://arxiv.org/abs/2310.15458 arXiv]\]
+\[[https://github.com/Tianyu-Liang/DINFMM/tree/main code]\]
 
 
-- *Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations*, C. Chen, P.G. Martinsson, SC 2022. \[[https://bitbucket.org/chao_chen/hodlr_gpu/src/master/ code]\]
+- *Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations*, C. Chen, P.G. Martinsson, SC 2022. 
+\[[https://dl.acm.org/doi/abs/10.5555/3571885.3571996 proceeding]\]
+\[[https://arxiv.org/abs/2208.06290 arXiv]\]
+\[[https://bitbucket.org/chao_chen/hodlr_gpu/src/master/ code]\]
 
 
-- *Efficient algorithms for computing rank-revealing factorizations on a GPU*, N. Heavner, C. Chen, A. Gopal, and P.G. Martinsson, NLAA 2023. \[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2515 journal\]. \[[https://arxiv.org/abs/2106.13402 arXiv]\]
+- *Efficient algorithms for computing rank-revealing factorizations on a GPU*, N. Heavner, C. Chen, A. Gopal, and P.G. Martinsson, NLAA 2023. \[[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2515 journal]\]. \[[https://arxiv.org/abs/2106.13402 arXiv]\]
 
 
 - *A distributed-memory hierarchical solver for general sparse linear systems*, C. Chen, H. Pouransari, S. Rajamanickam, E.G. Boman, and E. Darve, Parallel Comput. 2018. \[[https://www.sciencedirect.com/science/article/abs/pii/S0167819117302077 journal]\] \[[https://arxiv.org/abs/1712.07297 arXiv]\]

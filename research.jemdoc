@@ -12,13 +12,21 @@ Reliability is paramount in scientific discovery. My work in *Randomized Numeric
 
 ~~~
 
-- *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, SIMAX 2025. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
+- *Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition*, Y. Dong, C. Chen, P.G. Martinsson, K. Pearce, SIMAX 2025. 
+\[[https://epubs.siam.org/doi/10.1137/24M1678027 journal]\]
+\[[https://arxiv.org/abs/2309.16002 arXiv]\]
+\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting code]\]
 
-- *Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU*, K. Pearce, C. Chen, Y. Dong, P.G. Martinsson, NLAA 2025. \[[https://github.com/kjpearce/randLUPPadap code]\]
+- *Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU*, K. Pearce, C. Chen, Y. Dong, P.G. Martinsson, NLAA 2025. 
+\[[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.70002 journal]\]
+\[[https://arxiv.org/abs/2310.09417 arXiv]\]
+\[[https://github.com/kjpearce/randLUPPadap code]\]
 
-- *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, SISC 2021. \[[https://github.com/ut-padas/rchol code]\] 
+- *RCHOL: Randomized Cholesky Factorization for Solving SDD Linear Systems*, C. Chen, T. Liang, G. Biros, SISC 2021. 
+\[[https://epubs.siam.org/doi/10.1137/20M1380624 journal]\]
+\[[https://arxiv.org/abs/2011.07769 arXiv]\]
+\[[https://github.com/ut-padas/rchol code]\] 
 
-- *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, SIMAX 2020.
 
 
 ~~~
@@ -30,13 +38,26 @@ I seek to unify *Hierarchical-matrix (H-matrix) theory* with *Tensor Decompositi
 - *Parametric Hierarchical Matrix Approximations to Kernel Matrices*, A. Khan, C. Chen, V. Rao, A. K. Saibaba, arXiv 2025. \[[https://arxiv.org/abs/2511.03109 arXiv]\].
 
 
-- *A Simplified Fast Multipole Method Based on Recursive Skeletonization*, A. Yesypenko, C. Chen, P.G. Martinsson, JCP 2025. \[[https://github.com/annayesy/skelFMM code]\]
+#- *A Simplified Fast Multipole Method Based on Recursive Skeletonization*, A. Yesypenko, C. Chen, P.G. Martinsson, JCP 2025. \[[https://github.com/annayesy/skelFMM code]\]
 
 
-- *An Algebraic Sparsified Nested Dissection Algorithm using Low-Rank Approximations*, L. Cambier, C. Chen, E.G. Boman, S. Rajamanickam, R.S. Tuminaro, E. Darve, SIMAX 2020. \[[https://github.com/leopoldcambier/spaND_public code]\]
+- *Fast Approximation of the Gauss-Newton Hessian Matrix*, C. Chen,  S. Reiz, C. Yu, H.J. Bungartz, G. Biros, SIMAX 2021.
+\[[ journal]\]
+\[[ arXiv]\]
+
+
+- *An Algebraic Sparsified Nested Dissection Algorithm using Low-Rank Approximations*, L. Cambier, C. Chen, E.G. Boman, S. Rajamanickam, R.S. Tuminaro, E. Darve, SIMAX 2020. 
+\[[ journal]\]
+\[[ arXiv]\]
+
+\[[https://github.com/leopoldcambier/spaND_public code]\]
  
 
 - *A Robust Hierarchical Solver for Ill-conditioned Systems with Applications to Ice Sheet Modeling*, C. Chen, E. G. Boman, S. Rajamanickam, R. S. Tuminaro, E. Darve, JCP 2019.
+
+\[[ journal]\]
+\[[ arXiv]\]
+
 
 #- *Fast Algorithms for Evaluating the Stress Field of Dislocation Lines*, C. Chen, S. Aubry, T. Oppelstrup, T. Arsenlis, E. Darve, /Modeling and Simulation in Materials Science and Engineering /, 2018.
 
@@ -50,13 +71,21 @@ Theoretical breakthroughs must translate to wall-clock performance. Leveraging m
 
 - *Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners*, T. Liang, C. Chen, Y. Yaniv, H. Luo, D. Tench, X. Li, A. Buluc, J. Demmel, arXiv 2025. \[[https://arxiv.org/abs/2505.02977 arXiv]\].
 
-- *Scalable KNN Graph Construction on Heterogeneous Architectures*, W. Ruys, A. Ghafouri, C. Chen, G. Biros, ACM TOPC 2025. \[[https://github.com/ut-padas/pyrknn code]\]
+#- *Scalable KNN Graph Construction on Heterogeneous Architectures*, W. Ruys, A. Ghafouri, C. Chen, G. Biros, ACM TOPC 2025. \[[https://github.com/ut-padas/pyrknn code]\]
 
 
 - *An O(N) distributed-memory parallel direct solver for planar integral equations*, T. Liang, C. Chen, P.G. Martinsson, G. Biros, IPDPS 2024. \[[https://github.com/Tianyu-Liang/DINFMM/tree/main code]\]
 
 
 - *Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations*, C. Chen, P.G. Martinsson, SC 2022. \[[https://bitbucket.org/chao_chen/hodlr_gpu/src/master/ code]\]
+
+
+- *Efficient algorithms for computing rank-revealing factorizations on a GPU*, N. Heavner, C. Chen, A. Gopal, and P.G. Martinsson, NLAA 2023. \[https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2515 journal\]. \[[https://arxiv.org/abs/2106.13402 arXiv]\]
+
+
+- *A distributed-memory hierarchical solver for general sparse linear systems*, C. Chen, H. Pouransari, S. Rajamanickam, E.G. Boman, and E. Darve, Parallel Comput. 2018. \[[https://www.sciencedirect.com/science/article/abs/pii/S0167819117302077 journal]\] \[[https://arxiv.org/abs/1712.07297 arXiv]\]
+
+
 
 
 

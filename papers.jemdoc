@@ -3,6 +3,9 @@
 
 == Preprints
 
+
+- Arnel I. Smith, Chao Chen, Elly Do, /Adaptive, Matrix-Free Low-Rank Approximation/. \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
+
 - James Garrison, Chao Chen, Ilse Ipsen, /Numerically Stable Cholesky-QR on GPU via Mixed-Precision Randomized Preconditioning/. \[[https://arxiv.org/abs/2606.18411 arXiv]\] \[[https://github.com/as1805/MRCQR code]\]
 
 - Abraham Khan, Chao Chen, Vishwas Rao, Arvind K. Saibaba, /Parametric Hierarchical Matrix Approximations to Kernel Matrices/. \[[http://arxiv.org/abs/2511.03109 arXiv]\]

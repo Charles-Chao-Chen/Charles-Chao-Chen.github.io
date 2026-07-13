@@ -4,7 +4,7 @@
 == Preprints
 
 
-- Arnel Smith, Chao Chen, Elly Do, /Adaptive, Matrix-Free Low-Rank Approximation/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
+- Arnel Smith, Elly Do, Chao Chen, /Adaptive, Matrix-Free Low-Rank Approximation/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
 
 - James Garrison, Chao Chen, Ilse Ipsen, /Numerically Stable Cholesky-QR on GPU via Mixed-Precision Randomized Preconditioning/. \[[https://arxiv.org/abs/2606.18411 arXiv]\] \[[https://github.com/as1805/MRCQR code]\]
 

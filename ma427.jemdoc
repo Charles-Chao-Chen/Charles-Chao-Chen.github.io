@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{ma427.html}, showsource
+
+= MA 427 (0XX) Fall 2026 Introduction to Numerical Analysis I
+
+Instructor: Chao Chen
+
+Email: chao_chen@ncsu.edu (Please include course number in the subject.)
+
+Times: Monday Wednesday Friday 12:50 - 1:40 PM
+
+Location: 00102 David Clark Labs (North Campus)
+
+Office hours: SAS 4236, MW 2:00 - 3:00 PM and by appointment
+
+Full course [SYLLABUS_LINK_TBD syllabus].
+
+
+== Introduction
+
+This course initiates a two-semester sequence in numerical analysis (continued by MA 428), emphasizing the theory, error analysis, and computer implementation of practical algorithms for nonlinear problems: approximation of functions by interpolating polynomials, numerical differentiation and integration, and the numerical solution of ordinary differential equations. (MA 427 is cross-listed as CSC 427.)
+
+Programming exercises in *Matlab* are woven throughout the course so that students can put the theory learned in class into practice.
+
+- Prerequisite: [https://catalog.ncsu.edu/search/?P=MA%20341 MA 341] or [https://catalog.ncsu.edu/search/?P=MA+301 MA 301], and one of CSC 111, CSC 112, CSC 113, CSC 114, CSC 116, MA 116, PY 251, ST 114, or ECE 209. A working knowledge of programming is expected.
+
+
+== Optional references and resources
+
+- Lecture notes will be posted on [https://moodle-courses2627.wolfware.ncsu.edu/ Moodle] (link to be confirmed).
+- Textbook (not required, for reference only): [https://www.pearson.com/en-us/subject-catalog/p/numerical-analysis/ Numerical Analysis (2. edition)] - Timothy Sauer
+- Textbook (not required, for reference only): Introduction to Numerical Analysis (3. edition) - J. Stoer and R. Bulirsch
+- Textbook (not required, for reference only): Numerical Analysis - L. Ridgway Scott
+- *Matlab* is provided free of charge to all NC State students under the university's site license; see [https://software.ncsu.edu software.ncsu.edu] (select "Current Students").
+
+
+== Homework
+
+Individual assignments will be given roughly every 1-2 weeks, alternating between written theory problem sets and *Matlab* programming exercises tied to the current topic. Each submission should be a professional looking, typed report (PDF), with code included for programming assignments.
+
+
+Using LaTeX \n
+LaTeX can help produce beautifully typeset documents and is particularly useful for communicating mathematics.
+- Overleaf [https://www.overleaf.com/edu/ncsu online editor]
+- LaTeX [https://guides.nyu.edu/c.php?g=601858&p=4168135 NYU website]
+
+
+Late submissions are *not* acceptable.
+
+
+== Exams
+
+- Midterm 1: September 25, 2026
+- Midterm 2: October 23, 2026
+- Final: December 4, 2026 (Friday), 12:00 pm - 2:30 pm (per the University Final Exam Schedule; please confirm closer to the date)
+
+All exams are closed book, notes, internet, calculators, electronic devices (unless explicitly permitted).
+
+
+== Grading
+
+Numerical grade = homework (30\%) \+ midterms (35\%) \+ final (35\%)
+
+Letter grade
+- 97 and above is A+, starting from 93 and below 97 is A, starting from 90 and below 93 is A-.
+- Similar for the B, C, and D ranges.
+- Anything below 60 is F.
+
+
+
+
+== Academic integrity and honesty
+
+Students are required to comply with the university policy on academic integrity found in the [https://policies.ncsu.edu/policy/pol-11-35-01/ Code of Student Conduct 11.35.01 sections 8 and 9]. Therefore, students are required to uphold the Pack Pledge: “I have neither given nor received unauthorized aid on this test or assignment.” Violations of academic integrity will be handled in accordance with the [https://policies.ncsu.edu/regulation/reg-11-35-02/ Student Discipline Procedures].
+
+
+Please refer to the [https://studentconduct.dasa.ncsu.edu/academic-integrity-overview/ Academic Integrity] web page for a detailed explanation of the University’s policies on academic integrity and some of the common understandings related to those policies.
+
+
+== Students with Disabilities
+
+Reasonable accommodations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with the [https://dro.dasa.ncsu.edu/ Disability Services Office]. For more information on NC State's policy on working with students with disabilities, please see the [https://policies.ncsu.edu/regulation/reg-02-20-01/ Academic Accommodations for Students with Disabilities Regulation].

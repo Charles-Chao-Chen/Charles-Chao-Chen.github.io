@@ -12,7 +12,7 @@ Location: 00102 David Clark Labs (North Campus)
 
 Office hours: SAS 4236, MW 2:00 - 3:00 PM and by appointment
 
-Full course [SYLLABUS_LINK_TBD syllabus].
+Full course [https://docs.google.com/document/d/1bF_FvLUMwO_h6cj90VatNv8cwaiB_Vv1/edit?usp=sharing&ouid=102500975631575441188&rtpof=true&sd=true syllabus].
 
 
 == Introduction
@@ -26,7 +26,7 @@ Programming exercises in *Matlab* are woven throughout the course so that studen
 
 == Optional references and resources
 
-- Lecture notes will be posted on [https://moodle-courses2627.wolfware.ncsu.edu/ Moodle] (link to be confirmed).
+- Lecture notes will be posted on [https://moodle-courses2527.wolfware.ncsu.edu/course/view.php?id=11661 Moodle].
 - Textbook (not required, for reference only): [https://www.pearson.com/en-us/subject-catalog/p/numerical-analysis/ Numerical Analysis (2. edition)] - Timothy Sauer
 - Textbook (not required, for reference only): Introduction to Numerical Analysis (3. edition) - J. Stoer and R. Bulirsch
 - Textbook (not required, for reference only): Numerical Analysis - L. Ridgway Scott
@@ -35,7 +35,7 @@ Programming exercises in *Matlab* are woven throughout the course so that studen
 
 == Homework
 
-Individual assignments will be given roughly every 1-2 weeks, alternating between written theory problem sets and *Matlab* programming exercises tied to the current topic. Each submission should be a professional looking, typed report (PDF), with code included for programming assignments.
+Individual assignments will be given roughly every 1-2 weeks, with written theory problem sets and *Matlab* programming exercises tied to the current topic. Each submission should be a professional looking, typed report (PDF), with code included for programming assignments.
 
 
 Using LaTeX \n
@@ -51,7 +51,7 @@ Late submissions are *not* acceptable.
 
 - Midterm 1: September 25, 2026
 - Midterm 2: October 23, 2026
-- Final: December 4, 2026 (Friday), 12:00 pm - 2:30 pm (per the University Final Exam Schedule; please confirm closer to the date)
+- Final: December 4, 2026 (Friday), 12:00 pm - 2:30 pm 
 
 All exams are closed book, notes, internet, calculators, electronic devices (unless explicitly permitted).
 

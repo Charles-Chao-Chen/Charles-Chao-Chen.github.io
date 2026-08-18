@@ -40,7 +40,7 @@
 
 - Ruoxi Wang, Chao Chen, Jonghyun Lee, and Eric Darve, /PBBFMM3D: a parallel black-box algorithm for kernel matrix-vector multiplication/, Journal of Parallel and Distributed Computing 154 (2021). \[[https://arxiv.org/abs/1903.02153 arXiv]\] \[[https://github.com/ruoxi-wang/PBBFMM3D code]\]
 
-- Chao Chen, Severin Reiz, Chenhan Yu, Hans-Joachim Bungartz, and George Biros, /Fast Evaluation of the Gauss-Newton Hessian Matrix for the Multilayer Perceptron/, SIAM Journal on Matrix Analysis and Applications 42-1 (2021). \[[https://arxiv.org/abs/1910.12184 arXiv]\]
+- Chao Chen, Severin Reiz, Chenhan Yu, Hans-Joachim Bungartz, and George Biros, /Fast Approximation of the Gauss-Newton Hessian Matrix for the Multilayer Perceptron/, SIAM Journal on Matrix Analysis and Applications 42-1 (2021). \[[https://arxiv.org/abs/1910.12184 arXiv]\]
 
 - Leopold Cambier, Chao Chen, Erik G. Boman, Sivasankaran Rajamanickam, Raymond S. Tuminaro, and Eric Darve, /An Algebraic Sparsified Nested Dissection Algorithm using Low-Rank Approximations/, SIAM Journal on Matrix Analysis and Applications 41-2 (2020). \[[https://arxiv.org/abs/1901.02971 arXiv]\]
 

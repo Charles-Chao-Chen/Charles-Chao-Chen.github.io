@@ -17,7 +17,7 @@ Office hours: SAS 4236, MW 2:00 - 3:00 PM and by appointment
 
 == Introduction
 
-This course initiates a two-semester sequence in numerical analysis (continued by MA 428), emphasizing the theory, error analysis, and computer implementation of practical algorithms for nonlinear problems: approximation of functions by interpolating polynomials, numerical differentiation and integration, and the numerical solution of ordinary differential equations. (MA 427 is cross-listed as CSC 427.)
+This course initiates a two-semester sequence in numerical analysis (continued by MA 428), emphasizing the theory, error analysis, and computer implementation of practical algorithms for nonlinear problems: approximation of functions by interpolating polynomials, numerical differentiation and integration, the numerical solution of ordinary differential equations, and the solution of nonlinear equations. (MA 427 is cross-listed as CSC 427.)
 
 Programming exercises in *Matlab* are woven throughout the course so that students can put the theory learned in class into practice.
 
@@ -27,6 +27,7 @@ Programming exercises in *Matlab* are woven throughout the course so that studen
 == Optional references and resources
 
 - Lecture notes will be posted on [https://moodle-courses2527.wolfware.ncsu.edu/course/view.php?id=11661 Moodle].
+- Lecture recordings will be posted on [https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=dd41c24f-0a12-4c9f-8d54-b4a3000dd3b2 Panopto].
 - Textbook (not required, for reference only): [https://www.pearson.com/en-us/subject-catalog/p/numerical-analysis/ Numerical Analysis (2. edition)] - Timothy Sauer
 - Textbook (not required, for reference only): Introduction to Numerical Analysis (3. edition) - J. Stoer and R. Bulirsch
 - Textbook (not required, for reference only): Numerical Analysis - L. Ridgway Scott
@@ -35,11 +36,15 @@ Programming exercises in *Matlab* are woven throughout the course so that studen
 
 == Homework
 
-Individual assignments will be given roughly every 1-2 weeks, with written theory problem sets and *Matlab* programming exercises tied to the current topic. Each assignment is submitted as a single PDF on Moodle.
+Individual assignments will be given roughly every 1-2 weeks, with written theory problem sets and *Matlab* programming exercises tied to the current topic. Each assignment (both the LaTeX source and a PDF) will be posted on Moodle.
+
+*How to submit:*
+- *Written homeworks* are turned in as a *printed copy at the start of class* on the due date.
+- *Programming projects* are submitted as a single PDF on Moodle.
 
 *Submission format (please read carefully):*
 - The *programming parts* (which typically require plotting) *must be typed up in LaTeX* and submitted as a PDF, with your code and figures included. Handwritten programming write-ups will *not* be accepted.
-- The *theory parts* may be handwritten, provided the writing is neat and legible and the scan is clear. Typing them in LaTeX is *strongly recommended* (and excellent practice for communicating mathematics).
+- The *theory parts* may be handwritten, provided the writing is neat and legible. Typing them in LaTeX is *strongly recommended* (and excellent practice for communicating mathematics).
 
 *Presentation bonus:* a homework that is written and presented nicely --- clear, well-organized, and professionally typeset --- will receive *one extra point*.
 

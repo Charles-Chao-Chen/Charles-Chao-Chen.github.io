@@ -14,7 +14,7 @@
 
 
 - James Garrison, Chao Chen, Ilse Ipsen, /Numerically Stable Cholesky-QR on GPU via Mixed-Precision Randomized Preconditioning/, accepted by IEEE HPEC
-(2026).  \[[https://arxiv.org/abs/2606.18411 arXiv]\] \[[https://github.com/as1805/MRCQR code]\]
+(2026). (Outstanding Student Paper) \[[https://arxiv.org/abs/2606.18411 arXiv]\] \[[https://github.com/as1805/MRCQR code]\]
 
 
 - Tianyu Liang, Chao Chen, Yotam Yaniv, Hengrui Luo, David Tench, Xiaoye S. Li, Aydin Buluc, James Demmel, Jie Chen, /Tackling Parallelization Challenges of Randomized Preconditioners With Dependency Tracking/, accepted by SC'26: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (2026). \[[https://github.com/Tianyu-Liang/Parallel-Randomized-Cholesky code]\] 

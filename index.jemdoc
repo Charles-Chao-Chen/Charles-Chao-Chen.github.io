@@ -60,6 +60,10 @@ Chao has held research internships at NVIDIA Research (2018), Sandia National La
 
 == Recent News
 
+- \[Aug 2026\] Paper "Numerically Stable Cholesky-QR on GPU via Mixed-Precision Randomized Preconditioning" with James Garrison and Ilse Ipsen accepted at [https://ieee-hpec.org/ IEEE HPEC 2026] and recognized as an *Outstanding Student Paper*.
+
+- \[Aug 2026\] Paper "Tackling Parallelization Challenges of Randomized Preconditioners With Dependency Tracking" accepted at [https://sc26.supercomputing.org/ SC26], the International Conference for High Performance Computing, Networking, Storage, and Analysis.
+
 - \[Jul 2026\] New work "Adaptive, Matrix-Free Low-Rank Approximation" is available [https://arxiv.org/abs/2607.06758 arXiv].
 
 - \[Jun 2026\] Served on the program committee for [https://clustercomp.org/2026/ IEEE Cluster] in the Algorithms and Applications area/track.

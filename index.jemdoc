@@ -60,6 +60,8 @@ Chao has held research internships at NVIDIA Research (2018), Sandia National La
 
 == Recent News
 
+- \[Oct 2026\] Paper "Validation-to-Test Transfer of Post-Hoc Compression for Efficient Vision-Language Retrieval" by [mentoring.html Jiaying Ye] (University of Sheffield), from her 2026 Summer [https://gti.ncsu.edu/gears/ GEARS] project in my group, accepted at [https://www.ieee-etecom.org IEEE ETECOM 2026].
+
 - \[Aug 2026\] Paper "Numerically Stable Cholesky-QR on GPU via Mixed-Precision Randomized Preconditioning" with James Garrison and Ilse Ipsen accepted at [https://ieee-hpec.org/ IEEE HPEC 2026] and recognized as an *Outstanding Student Paper*.
 
 - \[Aug 2026\] Paper "Tackling Parallelization Challenges of Randomized Preconditioners With Dependency Tracking" accepted at [https://sc26.supercomputing.org/ SC26], the International Conference for High Performance Computing, Networking, Storage, and Analysis.
@@ -73,6 +75,8 @@ Chao has held research internships at NVIDIA Research (2018), Sandia National La
 - \[May 2026\] Co-organized a Minisymposium "Hierarchical Low-Rank Approximations: Algorithms and Applications" with [https://asaibab.math.ncsu.edu/ Arvind Saibaba] at 27th Conference of the International Linear Algebra Society (ILAS 2026).
 
 - \[Apr 2026\] Talk at Applied Math Seminar (online) at University of Arkansas.
+
+- \[Mar 2026\] Yu Li (University of Nottingham Ningbo China) and Xiangzhe Wang (The Chinese University of Hong Kong, Shenzhen), whom I mentored on "Efficient Algorithms for Data Science" in the 2026 Winter [https://gti.ncsu.edu/gears/ GEARS] program, won first place in the GEARS poster competition.
 
 #- \[Mar 2026\] Co-organized a Minisymposium "Low-rank Approximation with Applications to Hierarchical Matrices and Tensors" with [https://liuyangzhuan.github.io/ Yang Liu] at SIAM Conference on Parallel Processing for Scientific Computing (PP26).
 

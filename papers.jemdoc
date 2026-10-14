@@ -4,6 +4,13 @@
 == Preprints
 
 
+#- Nishad Tardalkar, Arnel Smith, Chao Chen, /From Black-Box Matvecs to Direct Solves: Adaptive HODLR Construction on a GPU/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
+
+#- Tianyu Liang, Chao Chen, James Demmel, Yang Liu, /Scaling $\mathcal{H}^2$ Factorization to Billion-Unknown Three-Dimensional Problems/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
+
+- Elly Do, Chao Chen, /Simultaneous Matrix-Free HSS Compression and Factorization with Adaptive Ranks/. \[[http://arxiv.org/abs/2610.16913 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-HSS code]\]
+
+
 - Arnel Smith, Elly Do, Chao Chen, /Adaptive, Matrix-Free Low-Rank Approximation/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
 
 - Abraham Khan, Chao Chen, Vishwas Rao, Arvind K. Saibaba, /Parametric Hierarchical Matrix Approximations to Kernel Matrices/. \[[http://arxiv.org/abs/2511.03109 arXiv]\]

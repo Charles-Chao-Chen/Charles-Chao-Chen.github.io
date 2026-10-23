@@ -10,7 +10,7 @@
 - Elly Do, Chao Chen, /Simultaneous Matrix-Free HSS Compression and Factorization with Adaptive Ranks/. \[[http://arxiv.org/abs/2610.16913 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-HSS code]\]
 
 
-- Tianyu Liang, Chao Chen, James Demmel, Yang Liu, /Scaling $\mathcal{H}^2$ Factorization to Billion-Unknown Three-Dimensional Problems/. \[[https://arxiv.org/abs/2610.30131 arXiv]\] #\[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
+- Tianyu Liang, Chao Chen, James Demmel, Yang Liu, /Scaling ${H}^2$ Factorization to Billion-Unknown Three-Dimensional Problems/. \[[https://arxiv.org/abs/2610.30131 arXiv]\] #\[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
 
 
 - Arnel Smith, Elly Do, Chao Chen, /Adaptive, Matrix-Free Low-Rank Approximation/. \[[https://arxiv.org/abs/2607.06758 arXiv]\] \[[https://github.com/SMART-Algebra/Adaptive-Matfree-Lowrank code]\]
